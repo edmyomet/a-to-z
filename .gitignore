@@ -1,0 +1,2 @@
+#ignore virtualenv configuration folder for numpy documentation
+/numpy_documentation/venv/
